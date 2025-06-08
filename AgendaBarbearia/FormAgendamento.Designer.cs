@@ -36,7 +36,7 @@
             // 
             // calendarioAgenda
             // 
-            calendarioAgenda.Location = new Point(31, 30);
+            calendarioAgenda.Location = new Point(18, 18);
             calendarioAgenda.Name = "calendarioAgenda";
             calendarioAgenda.TabIndex = 0;
             // 
@@ -44,7 +44,7 @@
             // 
             comboHorario.Font = new Font("Segoe UI", 10F);
             comboHorario.FormattingEnabled = true;
-            comboHorario.Location = new Point(345, 84);
+            comboHorario.Location = new Point(257, 58);
             comboHorario.Name = "comboHorario";
             comboHorario.Size = new Size(274, 25);
             comboHorario.TabIndex = 1;
@@ -54,7 +54,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 20F);
-            label1.Location = new Point(345, 30);
+            label1.Location = new Point(257, 18);
             label1.Name = "label1";
             label1.Size = new Size(274, 37);
             label1.TabIndex = 2;
@@ -62,7 +62,7 @@
             // 
             // btnAgendar
             // 
-            btnAgendar.Location = new Point(399, 130);
+            btnAgendar.Location = new Point(303, 107);
             btnAgendar.Name = "btnAgendar";
             btnAgendar.Size = new Size(161, 31);
             btnAgendar.TabIndex = 3;
@@ -74,7 +74,8 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            BackColor = Color.Plum;
+            ClientSize = new Size(560, 242);
             Controls.Add(btnAgendar);
             Controls.Add(label1);
             Controls.Add(comboHorario);

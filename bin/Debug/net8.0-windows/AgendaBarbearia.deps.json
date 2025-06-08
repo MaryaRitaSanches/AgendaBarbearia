@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AgendaBarbearia/1.0.0": {
+        "runtime": {
+          "AgendaBarbearia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgendaBarbearia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
