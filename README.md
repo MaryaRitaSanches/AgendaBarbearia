@@ -1,1 +1,1 @@
-O sistema AgendaBarbearia tem como objetivo, fornecer agendamento e acompanhamento de cronogramas relacionados aos devidos períodos de serviços dos barbeiros, com intuito de trazer mais eficiência e organização no registro de horários, datas e períodos do dia para o atendimento.    
+O sistema AgendaBarbearia tem como objetivo, fornecer agendamento e acompanhamento de cronogramas relacionados aos devidos períodos de serviços dos barbeiros, com intuito de trazer mais eficiência e organização no registro de horários, datas e períodos do dia para o atendimento.

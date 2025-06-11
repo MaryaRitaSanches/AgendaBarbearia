@@ -34,6 +34,8 @@
             email = new TextBox();
             botaoEntrada = new Button();
             label3 = new Label();
+            button1 = new Button();
+            linkLabel1 = new LinkLabel();
             SuspendLayout();
             // 
             // label1
@@ -77,7 +79,7 @@
             // 
             // botaoEntrada
             // 
-            botaoEntrada.Location = new Point(331, 242);
+            botaoEntrada.Location = new Point(336, 224);
             botaoEntrada.Name = "botaoEntrada";
             botaoEntrada.Size = new Size(112, 34);
             botaoEntrada.TabIndex = 4;
@@ -97,12 +99,35 @@
             label3.Text = "AGENDA DA BARBEARIA";
             label3.Click += label3_Click;
             // 
+            // button1
+            // 
+            button1.Location = new Point(648, 12);
+            button1.Name = "button1";
+            button1.Size = new Size(140, 34);
+            button1.TabIndex = 6;
+            button1.Text = "Administrador";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // linkLabel1
+            // 
+            linkLabel1.AutoSize = true;
+            linkLabel1.LinkColor = Color.Black;
+            linkLabel1.Location = new Point(175, 279);
+            linkLabel1.Name = "linkLabel1";
+            linkLabel1.Size = new Size(405, 25);
+            linkLabel1.TabIndex = 7;
+            linkLabel1.TabStop = true;
+            linkLabel1.Text = "Caso você não possua cadastro. Se cadastre aqui.";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Plum;
             ClientSize = new Size(800, 403);
+            Controls.Add(linkLabel1);
+            Controls.Add(button1);
             Controls.Add(label3);
             Controls.Add(botaoEntrada);
             Controls.Add(email);
@@ -124,5 +149,7 @@
         private TextBox email;
         private Button botaoEntrada;
         private Label label3;
+        private Button button1;
+        private LinkLabel linkLabel1;
     }
 }
