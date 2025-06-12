@@ -41,7 +41,7 @@ namespace AgendaBarbearia
             string emailTexto = email.Text;
             string senhaTexto = senha.Text;
 
-            // Exemplo de validação simples (você pode trocar por banco depois)
+            // Exemplo de validação (dps colocar no banco)
             if (email.Text == "cliente@exemplo.com" && senha.Text == "345")
             {
                 FormAgendamento formAgendamento = new FormAgendamento();
@@ -56,21 +56,16 @@ namespace AgendaBarbearia
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // botão do adm
-            string emailTexto = email.Text;
-            string senhaTexto = senha.Text;
+            FormularioADM formularioADM = new FormularioADM();
+            formularioADM.Show();
+            this.Hide(); // Oculta a tela principal
+        }
 
-            // Exemplo de validação simples (você pode trocar por banco depois)
-            if (email.Text == "adm@exemplo.com" && senha.Text == "345")
-            {
-                FormAgendamento formAgendamento = new FormAgendamento();
-                formAgendamento.Show();  // Abre a tela de agendamento
-                this.Hide();             // Esconde a tela de login
-            }
-            else
-            {
-                MessageBox.Show("Email ou senha incorretos.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            var cadastro = new Cadastro();
+            cadastro.Show();
+            this.Hide(); // ou use this.Close() se preferir encerrar a tela de login
         }
     }
 }

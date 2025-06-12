@@ -30,11 +30,33 @@ namespace AgendaBarbearia
 
         private void botaoEntrada_Click(object sender, EventArgs e)
         {
+            string usuario = txtBox1.Text;
+            string senha = txtBox2.Text;
+
+            // Aqui você pode colocar um login fixo, já que não tem banco ainda
+            if (usuario == "admin" && senha == "1234")
+            {
+                MessageBox.Show("Login de barbeiro realizado!");
+                var telaAgendamentos = new TelaAgendamentoForm();
+                telaAgendamentos.Show();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Usuário ou senha incorretos.");
+            }
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            var cadastro = new Cadastro();
+            cadastro.Show();
+            this.Hide(); // ou use this.Close() se preferir encerrar a tela de login
         }
     }
 }

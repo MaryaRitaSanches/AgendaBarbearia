@@ -32,11 +32,13 @@
             comboHorario = new ComboBox();
             label1 = new Label();
             btnAgendar = new Button();
+            label2 = new Label();
+            comboBox1 = new ComboBox();
             SuspendLayout();
             // 
             // calendarioAgenda
             // 
-            calendarioAgenda.Location = new Point(18, 18);
+            calendarioAgenda.Location = new Point(18, 27);
             calendarioAgenda.Name = "calendarioAgenda";
             calendarioAgenda.TabIndex = 0;
             // 
@@ -44,9 +46,9 @@
             // 
             comboHorario.Font = new Font("Segoe UI", 10F);
             comboHorario.FormattingEnabled = true;
-            comboHorario.Location = new Point(257, 58);
+            comboHorario.Location = new Point(312, 58);
             comboHorario.Name = "comboHorario";
-            comboHorario.Size = new Size(274, 25);
+            comboHorario.Size = new Size(148, 25);
             comboHorario.TabIndex = 1;
             comboHorario.SelectedIndexChanged += comboHorario_SelectedIndexChanged;
             // 
@@ -62,13 +64,33 @@
             // 
             // btnAgendar
             // 
-            btnAgendar.Location = new Point(303, 107);
+            btnAgendar.Location = new Point(312, 199);
             btnAgendar.Name = "btnAgendar";
-            btnAgendar.Size = new Size(161, 31);
+            btnAgendar.Size = new Size(148, 31);
             btnAgendar.TabIndex = 3;
-            btnAgendar.Text = "Agendar Corte";
+            btnAgendar.Text = "AGENDAR";
             btnAgendar.UseVisualStyleBackColor = true;
             btnAgendar.Click += btnAgendar_Click;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI", 20F);
+            label2.Location = new Point(269, 101);
+            label2.Name = "label2";
+            label2.Size = new Size(251, 37);
+            label2.TabIndex = 4;
+            label2.Text = "Selecione o Serviço:";
+            label2.Click += label2_Click;
+            // 
+            // comboBox1
+            // 
+            comboBox1.Font = new Font("Segoe UI", 10F);
+            comboBox1.FormattingEnabled = true;
+            comboBox1.Location = new Point(312, 141);
+            comboBox1.Name = "comboBox1";
+            comboBox1.Size = new Size(148, 25);
+            comboBox1.TabIndex = 5;
             // 
             // FormAgendamento
             // 
@@ -76,6 +98,8 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Plum;
             ClientSize = new Size(560, 242);
+            Controls.Add(comboBox1);
+            Controls.Add(label2);
             Controls.Add(btnAgendar);
             Controls.Add(label1);
             Controls.Add(comboHorario);
@@ -93,5 +117,7 @@
         private ComboBox comboHorario;
         private Label label1;
         private Button btnAgendar;
+        private Label label2;
+        private ComboBox comboBox1;
     }
 }

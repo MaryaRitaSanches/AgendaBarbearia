@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\AgendaBarbearia.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\AgendaBarbearia.csproj",
       "projectName": "AgendaBarbearia",
-      "projectPath": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\AgendaBarbearia.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\AgendaBarbearia.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

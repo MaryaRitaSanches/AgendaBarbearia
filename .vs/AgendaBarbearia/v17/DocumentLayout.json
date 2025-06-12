@@ -1,34 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\agendabarbearia\\formularioadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:formularioadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\dev. sistema\\agendabarbearia-att\\agendabarbearia\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\agendabarbearia\\formagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:formagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\agendabarbearia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\agendabarbearia\\formagendamento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:formagendamento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\agendabarbearia\\formagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\dev. sistema\\agendabarbearia-att\\agendabarbearia\\formagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:formagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\agendabarbearia\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\dev. sistema\\agendabarbearia-att\\agendabarbearia\\formagendamento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:formagendamento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\formularioadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:formularioadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\dev. sistema\\agendabarbearia-att\\agendabarbearia\\formagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:formagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\dev. sistema\\agendabarbearia-att\\agendabarbearia\\cadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:cadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\dev. sistema\\agendabarbearia-att\\agendabarbearia\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\dev. sistema\\agendabarbearia-att\\agendabarbearia\\formularioadm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:formularioadm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\dev. sistema\\agendabarbearia-att\\agendabarbearia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\dev. sistema\\agendabarbearia-att\\agendabarbearia\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\agendabarbearia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\dev. sistema\\agendabarbearia-att\\agendabarbearia\\formularioadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:formularioadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\user\\desktop\\dev. sistema\\agendabarbearia-att\\agendabarbearia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,39 +66,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormularioADM.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\FormularioADM.cs",
-              "RelativeDocumentMoniker": "FormularioADM.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\FormularioADM.cs [Projeto]",
-              "RelativeToolTip": "FormularioADM.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T22:39:08.685Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormAgendamento.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\FormAgendamento.cs",
-              "RelativeDocumentMoniker": "FormAgendamento.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\FormAgendamento.cs [Projeto]",
-              "RelativeToolTip": "FormAgendamento.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T22:39:06.116Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\Form1.cs [Projeto]",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\Form1.cs [Projeto]",
               "RelativeToolTip": "Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T22:38:59.313Z",
@@ -78,55 +82,165 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cadastro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Cadastro.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\Cadastro.cs [Projeto]",
+              "RelativeToolTip": "Cadastro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:28:54.567Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAgendamento.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\FormAgendamento.cs",
+              "RelativeDocumentMoniker": "FormAgendamento.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\FormAgendamento.cs [Projeto]",
+              "RelativeToolTip": "FormAgendamento.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:39:06.116Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "FormularioADM.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\FormularioADM.cs",
+              "RelativeDocumentMoniker": "FormularioADM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\FormularioADM.cs [Projeto]",
+              "RelativeToolTip": "FormularioADM.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:39:08.685Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FormAgendamento.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\FormAgendamento.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\FormAgendamento.Designer.cs",
               "RelativeDocumentMoniker": "FormAgendamento.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\FormAgendamento.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\FormAgendamento.Designer.cs",
               "RelativeToolTip": "FormAgendamento.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T21:16:42.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "FormAgendamento.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\FormAgendamento.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\FormAgendamento.cs",
               "RelativeDocumentMoniker": "FormAgendamento.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\FormAgendamento.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\FormAgendamento.cs",
               "RelativeToolTip": "FormAgendamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T21:16:41.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
+              "DocumentIndex": 0,
+              "Title": "Agendamento.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\Agendamento.cs",
+              "RelativeDocumentMoniker": "Agendamento.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\Agendamento.cs",
+              "RelativeToolTip": "Agendamento.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T00:05:05.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cadastro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\Cadastro.Designer.cs",
+              "RelativeDocumentMoniker": "Cadastro.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\Cadastro.Designer.cs",
+              "RelativeToolTip": "Cadastro.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:29:07.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormularioADM.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\FormularioADM.Designer.cs",
+              "RelativeDocumentMoniker": "FormularioADM.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\FormularioADM.Designer.cs",
+              "RelativeToolTip": "FormularioADM.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:54:41.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Cadastro.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\Cadastro.cs",
+              "RelativeToolTip": "Cadastro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:31:23.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T21:16:31.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T21:16:35.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\AgendaBarbearia\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "FormularioADM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\FormularioADM.cs",
+              "RelativeDocumentMoniker": "FormularioADM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\FormularioADM.cs",
+              "RelativeToolTip": "FormularioADM.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T21:16:31.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T23:15:42.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DEV. SISTEMA\\AgendaBarbearia-att\\AgendaBarbearia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:52:56.591Z"
             }
           ]
         }

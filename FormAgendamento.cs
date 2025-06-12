@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace AgendaBarbearia
 {
@@ -17,7 +18,7 @@ namespace AgendaBarbearia
             InitializeComponent();
         }
 
-            private void FormAgendamento_Load(object sender, EventArgs e)
+        private void FormAgendamento_Load(object sender, EventArgs e)
         {
             comboHorario.Items.Clear();  // Limpa qualquer item antigo
 
@@ -32,26 +33,20 @@ namespace AgendaBarbearia
             comboHorario.Items.Add("17:00");
         }
 
-        
+
 
         private void btnAgendar_Click(object sender, EventArgs e)
         {
-            DateTime dataSelecionada = calendarioAgenda.SelectionStart;
-            string horarioSelecionado = comboHorario.SelectedItem?.ToString();
-
-            if (string.IsNullOrEmpty(horarioSelecionado))
-            {
-                MessageBox.Show("Por favor, selecione um horário.");
-                return;
-            }
-
-            string agendamento = $"Agendamento realizado para {dataSelecionada.ToShortDateString()} às {horarioSelecionado}.";
-            MessageBox.Show(agendamento, "Sucesso");
 
 
         }
 
         private void comboHorario_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }
