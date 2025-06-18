@@ -50,5 +50,22 @@ namespace AgendaBarbearia
         {
 
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            comboHorario.Items.Clear();  // Limpa qualquer item antigo
+
+            // Adiciona os serviços disponíveis
+            comboHorario.Items.Add("Corte");
+            comboHorario.Items.Add("Barba");
+            comboHorario.Items.Add("Sombrancelha");
+            comboHorario.Items.Add("Luzes");
+            comboHorario.Items.Add("Penteado");
+            comboHorario.Items.Add("Corte + Barba");
+            comboHorario.Items.Add("Corte + Sombrancelha");
+            comboHorario.Items.Add("Corte + Luzes");
+            comboHorario.Items.Add("Corte + Penteado");
+            comboHorario.Items.Add("Sombrancelha + Barba");
+        }
     }
 }

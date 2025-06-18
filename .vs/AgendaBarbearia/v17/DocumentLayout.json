@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\tecnico\\source\\repos\\agendabarbearia\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\tecnico\\source\\repos\\agendabarbearia\\areadoadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:areadoadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\areadoadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:areadoadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\tecnico\\source\\repos\\agendabarbearia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\tecnico\\source\\repos\\agendabarbearia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\tecnico\\source\\repos\\agendabarbearia\\formagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:formagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\tecnico\\source\\repos\\agendabarbearia\\formagendamento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:formagendamento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\tecnico\\source\\repos\\agendabarbearia\\cadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:cadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\tecnico\\source\\repos\\agendabarbearia\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\tecnico\\source\\repos\\agendabarbearia\\formularioadm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:formularioadm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\formagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:formagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\tecnico\\source\\repos\\agendabarbearia\\formularioadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:formularioadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\tecnico\\source\\repos\\agendabarbearia\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\formularioadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:formularioadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\tecnico\\source\\repos\\agendabarbearia\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|c:\\users\\tecnico\\source\\repos\\agendabarbearia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B69842-FF79-467E-B7CE-6CD62BA6E8A7}|AgendaBarbearia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:38:59.313Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAIoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-18T00:14:25.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AreadoADM.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\AreadoADM.cs",
+              "RelativeDocumentMoniker": "AreadoADM.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\AreadoADM.cs",
+              "RelativeToolTip": "AreadoADM.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAhwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T22:35:40.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormAgendamento.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\FormAgendamento.Designer.cs",
+              "RelativeDocumentMoniker": "FormAgendamento.Designer.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\FormAgendamento.Designer.cs",
+              "RelativeToolTip": "FormAgendamento.Designer.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAQwIAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T21:16:42.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAgendamento.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\FormAgendamento.cs",
+              "RelativeDocumentMoniker": "FormAgendamento.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\FormAgendamento.cs",
+              "RelativeToolTip": "FormAgendamento.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T21:16:41.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Agendamento.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\Agendamento.cs",
+              "RelativeDocumentMoniker": "Agendamento.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\Agendamento.cs",
+              "RelativeToolTip": "Agendamento.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T00:05:05.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cadastro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\Cadastro.Designer.cs",
+              "RelativeDocumentMoniker": "Cadastro.Designer.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\Cadastro.Designer.cs",
+              "RelativeToolTip": "Cadastro.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:29:07.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormularioADM.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\FormularioADM.Designer.cs",
+              "RelativeDocumentMoniker": "FormularioADM.Designer.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\FormularioADM.Designer.cs",
+              "RelativeToolTip": "FormularioADM.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:54:41.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Cadastro.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\Cadastro.cs",
+              "RelativeToolTip": "Cadastro.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA+wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:31:23.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T21:16:31.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T21:16:35.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormularioADM.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\FormularioADM.cs",
+              "RelativeDocumentMoniker": "FormularioADM.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\FormularioADM.cs",
+              "RelativeToolTip": "FormularioADM.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:15:42.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:52:56.591Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AreadoADM.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\AreadoADM.cs",
+              "RelativeDocumentMoniker": "AreadoADM.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\AreadoADM.cs [Projeto]",
+              "RelativeToolTip": "AreadoADM.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T22:35:14.008Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cadastro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Cadastro.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\Cadastro.cs [Projeto]",
+              "RelativeToolTip": "Cadastro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:28:54.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormAgendamento.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\FormAgendamento.cs",
+              "RelativeDocumentMoniker": "FormAgendamento.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\FormAgendamento.cs [Projeto]",
+              "RelativeToolTip": "FormAgendamento.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:39:06.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormularioADM.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\FormularioADM.cs",
+              "RelativeDocumentMoniker": "FormularioADM.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\AgendaBarbearia\\FormularioADM.cs [Projeto]",
+              "RelativeToolTip": "FormularioADM.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:39:08.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

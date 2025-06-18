@@ -92,3 +92,18 @@ C:\Users\User\Desktop\DEV. SISTEMA\AgendaBarbearia-att\AgendaBarbearia\obj\Debug
 C:\Users\User\Desktop\DEV. SISTEMA\AgendaBarbearia-att\AgendaBarbearia\obj\Debug\net8.0-windows\AgendaBarbearia.Cadastro.resources
 C:\Users\User\Desktop\DEV. SISTEMA\AgendaBarbearia-att\AgendaBarbearia\obj\Debug\net8.0-windows\AgendaBarbearia.TelaAgendamentoForm.resources
 C:\Users\User\Desktop\DEV. SISTEMA\AgendaBarbearia-att\AgendaBarbearia\obj\Debug\net8.0-windows\AgendaBarbearia.TelaAgendamentosForm.resources
+C:\Users\Tecnico\Source\Repos\AgendaBarbearia\obj\Debug\net8.0-windows\AgendaBarbearia.Cadastro.resources
+C:\Users\Tecnico\Source\Repos\AgendaBarbearia\obj\Debug\net8.0-windows\AgendaBarbearia.Form1.resources
+C:\Users\Tecnico\Source\Repos\AgendaBarbearia\obj\Debug\net8.0-windows\AgendaBarbearia.FormAgendamento.resources
+C:\Users\Tecnico\Source\Repos\AgendaBarbearia\obj\Debug\net8.0-windows\AgendaBarbearia.FormularioADM.resources
+C:\Users\Tecnico\Source\Repos\AgendaBarbearia\obj\Debug\net8.0-windows\AgendaBarbearia.csproj.GenerateResource.cache
+C:\Users\Tecnico\Source\Repos\AgendaBarbearia\obj\Debug\net8.0-windows\AgendaBarbearia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tecnico\Source\Repos\AgendaBarbearia\obj\Debug\net8.0-windows\AgendaBarbearia.AssemblyInfoInputs.cache
+C:\Users\Tecnico\Source\Repos\AgendaBarbearia\obj\Debug\net8.0-windows\AgendaBarbearia.AssemblyInfo.cs
+C:\Users\Tecnico\Source\Repos\AgendaBarbearia\obj\Debug\net8.0-windows\AgendaBarbearia.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Source\Repos\AgendaBarbearia\obj\Debug\net8.0-windows\AgendaBarbearia.sourcelink.json
+C:\Users\Tecnico\Source\Repos\AgendaBarbearia\obj\Debug\net8.0-windows\AgendaBarbearia.dll
+C:\Users\Tecnico\Source\Repos\AgendaBarbearia\obj\Debug\net8.0-windows\refint\AgendaBarbearia.dll
+C:\Users\Tecnico\Source\Repos\AgendaBarbearia\obj\Debug\net8.0-windows\AgendaBarbearia.pdb
+C:\Users\Tecnico\Source\Repos\AgendaBarbearia\obj\Debug\net8.0-windows\AgendaBarbearia.AreadoADM.resources
+C:\Users\Tecnico\Source\Repos\AgendaBarbearia\obj\Debug\net8.0-windows\AgendaBarbearia.Properties.Resources.resources

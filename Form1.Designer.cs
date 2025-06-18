@@ -36,6 +36,7 @@
             label3 = new Label();
             button1 = new Button();
             linkLabel1 = new LinkLabel();
+            SuspendLayout();
             // 
             // label1
             // 

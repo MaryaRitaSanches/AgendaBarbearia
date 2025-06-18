@@ -26,5 +26,10 @@ namespace AgendaBarbearia
         {
 
         }
+
+        private void Cadastro_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

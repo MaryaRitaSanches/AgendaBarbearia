@@ -14,9 +14,9 @@ namespace AgendaBarbearia
 
         private void Form1_Load(object sender, EventArgs e)
         {
+           
 
         }
-
         private void label1_Click(object sender, EventArgs e)
         {
 
@@ -66,6 +66,11 @@ namespace AgendaBarbearia
             var cadastro = new Cadastro();
             cadastro.Show();
             this.Hide(); // ou use this.Close() se preferir encerrar a tela de login
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
