@@ -84,10 +84,10 @@
             // 
             // botaoEntrada
             // 
-            botaoEntrada.Location = new Point(597, 199);
+            botaoEntrada.Location = new Point(599, 212);
             botaoEntrada.Margin = new Padding(4, 5, 4, 5);
             botaoEntrada.Name = "botaoEntrada";
-            botaoEntrada.Size = new Size(145, 52);
+            botaoEntrada.Size = new Size(145, 39);
             botaoEntrada.TabIndex = 7;
             botaoEntrada.Text = "SAIR";
             botaoEntrada.UseVisualStyleBackColor = true;

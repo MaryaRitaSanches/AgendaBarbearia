@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\Tecnico\\Desktop\\AgendaBarbearia\\AgendaBarbearia.csproj": {}
   },
   "projects": {
@@ -13,19 +12,6 @@
         "projectPath": "C:\\Users\\Tecnico\\Desktop\\AgendaBarbearia\\AgendaBarbearia.csproj",
         "packagesPath": "C:\\Users\\Tecnico\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Tecnico\\Desktop\\AgendaBarbearia\\obj\\",
-=======
-    "C:\\Users\\Tecnico\\Source\\Repos\\AgendaBarbearia\\AgendaBarbearia.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\Tecnico\\Source\\Repos\\AgendaBarbearia\\AgendaBarbearia.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Tecnico\\Source\\Repos\\AgendaBarbearia\\AgendaBarbearia.csproj",
-        "projectName": "AgendaBarbearia",
-        "projectPath": "C:\\Users\\Tecnico\\Source\\Repos\\AgendaBarbearia\\AgendaBarbearia.csproj",
-        "packagesPath": "C:\\Users\\Tecnico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tecnico\\Source\\Repos\\AgendaBarbearia\\obj\\",
->>>>>>> 1944f630b4e8f51f89c25944787b34e8a432cd7c
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

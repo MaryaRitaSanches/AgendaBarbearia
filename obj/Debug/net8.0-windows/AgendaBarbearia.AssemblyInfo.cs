@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgendaBarbearia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89569b98a14f304fb62ec2a6b75a095f2dc0336b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a44bca100b832b7f8529d8526f94e1059ca219f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgendaBarbearia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgendaBarbearia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
