@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "mMceVtKmfzk=",
   "success": true,
   "projectFilePath": "C:\\Users\\Tecnico\\Desktop\\AgendaBarbearia\\AgendaBarbearia.csproj",
+=======
+  "dgSpecHash": "Wkaw049N5dM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tecnico\\Source\\Repos\\AgendaBarbearia\\AgendaBarbearia.csproj",
+>>>>>>> 1944f630b4e8f51f89c25944787b34e8a432cd7c
   "expectedPackageFiles": [],
   "logs": []
 }

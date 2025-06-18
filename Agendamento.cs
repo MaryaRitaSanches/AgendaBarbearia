@@ -13,6 +13,8 @@ namespace AgendaBarbearia
         public string Servico { get; set; }
         public DateTime DataHora { get; set; }
 
+        public string Sevicodocliente { get; set; }
+
         public override string ToString()
         {
             return $"{DataHora:dd/MM/yyyy HH:mm} - {NomeCliente} - {Servico}";

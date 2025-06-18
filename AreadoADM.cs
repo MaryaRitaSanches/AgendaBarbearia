@@ -10,24 +10,29 @@ using System.Windows.Forms;
 
 namespace AgendaBarbearia
 {
-    public partial class Cadastro : Form
+    public partial class AreadoADM : Form
     {
-        public Cadastro()
+        public AreadoADM()
         {
             InitializeComponent();
         }
 
-        private void label3_Click(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void label5_Click(object sender, EventArgs e)
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void Cadastro_Load(object sender, EventArgs e)
+        private void AreadoADM_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }
